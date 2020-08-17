@@ -17,6 +17,7 @@ int main()
 	}
 	cout << "" << endl;
 	cout << "Thank you." << endl;
+	return(0);
 }
 
 int cal_age(int year)
